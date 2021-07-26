@@ -1,0 +1,15 @@
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\bin\Debug\netcoreapp3.1\Game_0_engine.exe
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\bin\Debug\netcoreapp3.1\Game_0_engine.deps.json
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\bin\Debug\netcoreapp3.1\Game_0_engine.runtimeconfig.json
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\bin\Debug\netcoreapp3.1\Game_0_engine.runtimeconfig.dev.json
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\bin\Debug\netcoreapp3.1\Game_0_engine.dll
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\bin\Debug\netcoreapp3.1\Game_0_engine.pdb
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\obj\Debug\netcoreapp3.1\Game_0_engine.csprojAssemblyReference.cache
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\obj\Debug\netcoreapp3.1\Game_0_engine.Form1.resources
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\obj\Debug\netcoreapp3.1\Game_0_engine.csproj.GenerateResource.cache
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\obj\Debug\netcoreapp3.1\Game_0_engine.AssemblyInfoInputs.cache
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\obj\Debug\netcoreapp3.1\Game_0_engine.AssemblyInfo.cs
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\obj\Debug\netcoreapp3.1\Game_0_engine.csproj.CoreCompileInputs.cache
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\obj\Debug\netcoreapp3.1\Game_0_engine.dll
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\obj\Debug\netcoreapp3.1\Game_0_engine.pdb
+C:\Users\LopDesk\source\repos\Game_0_engine\Game_0_engine\obj\Debug\netcoreapp3.1\Game_0_engine.genruntimeconfig.cache
